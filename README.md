@@ -1,4 +1,5 @@
 # Sample App for Network Simulation test on BrowserStack
+https://www.browserstack.com/app-automate/network-simulation
 
 ### Uses IPA file under folder `GeneratedIPA`
 
